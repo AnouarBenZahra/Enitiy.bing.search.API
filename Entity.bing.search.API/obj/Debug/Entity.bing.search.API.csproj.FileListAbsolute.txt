@@ -1,0 +1,6 @@
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\bin\Debug\Enitiy.bing.search.API.dll
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\bin\Debug\Enitiy.bing.search.API.pdb
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\obj\Debug\Entity.bing.search.API.csprojAssemblyReference.cache
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\obj\Debug\Entity.bing.search.API.csproj.CoreCompileInputs.cache
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\obj\Debug\Enitiy.bing.search.API.dll
+c:\users\anouar ben zahra\Source\repos\Enitiy.bing.search.API\Enitiy.bing.search.API\obj\Debug\Enitiy.bing.search.API.pdb
